@@ -1,0 +1,10 @@
+.chessboard {
+height: 500px;
+width: 500px;
+border-collapse: collapse;
+}
+
+.grey {
+    background: grey;
+}
+
